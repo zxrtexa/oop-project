@@ -35,4 +35,4 @@ def date_diff(date1, date2):
 
     return days
 
-print(date_diff("25-12-1999", "9-3-2000")) # 76
+print(date_diff("25-12-1999", "9-3-2000")) # 76 
